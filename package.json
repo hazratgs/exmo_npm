@@ -1,7 +1,7 @@
 {
   "name": "exmo-api-promise",
   "description": "Exmo (Bitcoin Exchange) Promise API client",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/hazratgs/exmo_npm",
   "author": {
     "name": "hazratgs",
