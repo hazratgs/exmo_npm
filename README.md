@@ -3,15 +3,12 @@
 Exmo (Bitcoin Exchange) API client
 
 ## Getting Started
-Install the module with: `npm install exmo-api`
+Install the module with: `npm install exmo-api-promise`
 
 ```javascript
-var exmo = require('exmo-api');
-exmo.init_exmo({key:"your_key", secret:"your_secret"});
-exmo.api_query("user_info", { }, function(result){
-  var data = JSON.parse(result);
-  ...
-});
+const exmo = require('exmo-api-promise')
+exmo.init({key:"your_key", secret:"your_secret"})
+exmo.query("user_info", {}).then(result => { ... })
 ```
 
 ## Documentation

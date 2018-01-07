@@ -1,23 +1,23 @@
 {
-  "name": "exmo-api",
-  "description": "Exmo (Bitcoin Exchange) API client",
+  "name": "exmo-api-promise",
+  "description": "Exmo (Bitcoin Exchange) Promise API client",
   "version": "0.1.0",
-  "homepage": "https://github.com/exmo-dev/exmo_npm",
+  "homepage": "https://github.com/hazratgs/exmo_npm",
   "author": {
-    "name": "exmo-dev",
-    "email": "admin@exmo.com"
+    "name": "hazratgs",
+    "email": "hazratgs@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/exmo-dev/exmo_npm.git"
+    "url": "https://github.com/hazratgs/exmo_npm"
   },
   "bugs": {
-    "url": "https://github.com/exmo-dev/exmo_npm/issues"
+    "url": "https://github.com/hazratgs/exmo_npm/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/exmo-dev/exmo_npm/blob/master/LICENSE-MIT"
+      "url": "https://github.com/hazratgs/exmo_npm/blob/master/LICENSE-MIT"
     }
   ],
   "main": "lib/exmo-api",
